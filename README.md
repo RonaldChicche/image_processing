@@ -1,0 +1,3 @@
+# Description of widgets.ipynb
+
+The `widgets.ipynb` file is a Jupyter notebook that demonstrates how to use interactive widgets in Python. The notebook includes code examples that show how to create and use different types of widgets, such as sliders, dropdown menus, and text boxes. The notebook also includes examples of how to use widgets to create interactive plots and visualizations. The code in the notebook is written in Python and uses the `ipywidgets` library to create the interactive widgets. The notebook is designed to be run in a Jupyter environment and can be used as a reference for anyone who wants to learn how to use widgets in their own Python projects.
